@@ -19,3 +19,20 @@ Iris Dataset loaded directly from seaborn library.
 - No missing values found
 - Setosa species is clearly separable from others
 - Petal length is the most distinguishing feature
+
+# Task 4: Predicting Insurance Claim Amounts
+
+## Objective
+Predict medical insurance charges using Linear Regression.
+
+## Dataset
+Medical Cost Personal Dataset (insurance.csv)
+
+## Approach
+- Explored and visualized the dataset
+- Trained Linear Regression model
+- Evaluated using MAE and RMSE
+
+## Results
+- Smoking status is the biggest factor in charges
+- Age and BMI also significantly impact charges
