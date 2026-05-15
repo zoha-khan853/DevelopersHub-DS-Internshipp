@@ -20,6 +20,25 @@ Iris Dataset loaded directly from seaborn library.
 - Setosa species is clearly separable from others
 - Petal length is the most distinguishing feature
 
+# Task 3: Customer churn prediction
+
+## Objective
+Predict whether a bank customer will leave or stay.
+
+##Dataset
+Churn Modeling Dataset
+
+##Approach
+- Cleaned and prepared the dataset
+- Encoded categorical features
+- Trained Random Forest Model
+- Analyzed feature Importance
+
+  ## Results
+  - Model achieved good accuracy
+  - Age and Balance are most important features
+  - Germany customers churn more than other regions
+
 # Task 4: Predicting Insurance Claim Amounts
 
 ## Objective
