@@ -25,10 +25,10 @@ Iris Dataset loaded directly from seaborn library.
 ## Objective
 Predict whether a bank customer will leave or stay.
 
-##Dataset
+## Dataset
 Churn Modeling Dataset
 
-##Approach
+## Approach
 - Cleaned and prepared the dataset
 - Encoded categorical features
 - Trained Random Forest Model
